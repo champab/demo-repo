@@ -2,7 +2,8 @@ package main
 import "fmt"
 
 func main(){
-  fmt.print("Hello World!!")
+  fmt.Printf("Hello World!!")
+  fmt.Printf("My first Local Update")
   
   
-  ]
+}
